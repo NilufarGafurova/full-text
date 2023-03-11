@@ -1,0 +1,14 @@
+.container{
+  padding:10px 100px;
+}
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sant-serif;
+}
+*{
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
